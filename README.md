@@ -90,6 +90,5 @@ Final API:
     "rating": 3.5
   }
 ]
-Response headers
 ```
 
