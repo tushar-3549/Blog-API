@@ -1,12 +1,12 @@
-FastAPI - Swagger UI
+**FastAPI - Swagger UI**
 ![image](https://github.com/user-attachments/assets/c7dff84c-9b77-4e75-8fc3-16804de82cf4)
 
-Postgres-Database
+**Postgres-Database**
 ![Screenshot from 2024-12-19 11-12-31](https://github.com/user-attachments/assets/74666e7d-df24-443d-be61-f65101b67805)
 ![Screenshot from 2024-12-19 11-12-55](https://github.com/user-attachments/assets/ef9ba6d3-30ad-41e8-bec7-4f327ce76b1b)
 ![Screenshot from 2024-12-19 11-13-04](https://github.com/user-attachments/assets/a29e02e7-10d0-4ff7-a364-5caf8db36837)
 
-Final API:
+**Final API:**
 ```
 [
   {
