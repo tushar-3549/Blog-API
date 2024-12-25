@@ -13,7 +13,6 @@ def vote(
     db: Session = Depends(database.get_db),
     cur_user: int = Depends(oauth2.get_current_user)
 ):
-    # Check if the post exists
     post = db.query(models.Post).filter(models.Post.id == vote.post_id).first()
     if not post:
         raise HTTPException(
